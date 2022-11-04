@@ -19,3 +19,9 @@ step 4: adding the public key (html)............
 step 5: connecting the service id(js)...............
 
 step 6: connecting the template id(js)..............
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/84926877/199929641-378ff69b-2fb1-43b1-8dc7-03515a28e96a.png)
